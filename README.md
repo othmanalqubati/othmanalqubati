@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=othmanalqubati" alt="othmanalqubati" /></a> </p>
 
-- 💬 Ask me about **android , flutter , figma , alittle bit of laravel**
+
 
 - 📫 How to reach me **othmanalyusifey@gmail.com & whatsapp: +967774022350**
 
